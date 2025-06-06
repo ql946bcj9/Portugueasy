@@ -11,8 +11,8 @@ Let's start with
  - [Verbs] (#Mainverbs)
  - [Moving in the timeline] (#movinginthetimeline)
 
-## Alphabet
-<a id="Alphabet"></a>
+
+## Alphabet <a id="Alphabet"></a>
 It sounds silly to start from the alphabet, but just like it happens in englis it will happen in portuguese. We speak different because we don't have the same sounds;
 
 
@@ -21,8 +21,8 @@ While in english there are 5 vowels , just like in portuguese, there are also ar
 Learn More
 
 
-## Pronouns
-<a id="Pronouns"></a>
+## Pronouns<a id="Pronouns"></a>
+
 
 There are 6 pronouns in portuguese
  
@@ -34,10 +34,18 @@ There are 6 pronouns in portuguese
    - Tu és alto
    - You are tall
  3. Ele/Ela (He/She)
-   Ele;ela é altoalta
+   - Ele/ela é alto/alta
+   - he;she is tall
+   - 
  #### Plural
  1. Nós (We)
- 1. Vos (You)
- 1. Eles/Elas (They)
+   - Nos somos altos
+   - we are tall
+ 2. Vos (You)
+   - vos sois altos
+   - you are tall
+ 3. Eles/Elas (They)
+   - Eles/elas são altos/altas
+   - They are tall
 
 But in living language, we barely use the second person.
