@@ -88,7 +88,7 @@ Regarding the consonants, it goes smothly, they are mostly like in english, exce
 There are 6 pronouns in portuguese
  But in living language, [we barely use the second person](#noteAbout2person "That's not totally true"). So in place of "tu" you can use "você" the same way you use the third person Ele/ela.
 
-> Você is a treatment pronoun actually, but we use that as a 
+> Você is a pronoun of address actually, but we use that as a personal pronouns 
 
  #### Singular
  1. Eu (I)
