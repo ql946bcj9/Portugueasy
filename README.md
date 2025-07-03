@@ -40,9 +40,42 @@ While in english (just like in portuguese) there are 5 vowels, there are also ar
 
 if you want to go deeper on this things of fonetic representations, the best site is the [ipachart.com](https://www.ipachart.com/) itself
 
-Regarding the consonants
+Regarding the consonants, it goes smothly, they are mostly like in english, except that we don't use the th/gh sounds
 
-There are some tricky sounds that some people strugle to pronunce properly
+|Consonant| IPA (pt-BR/pt-PT) |aproximate sound in english | english words |
+|--------------------|------------------|--------------------------|------------------------------------|
+| **b**          | [b]              | /b/                         | bat, boy                         |
+| **c** (before a, o, u) | [k]   | /k/                         | cat, cold                        |
+| **c / ç** (before e, i) | [s]   | /s/                         | city, center                     |
+| **ch**         | [ʃ]              | /ʃ/                         | shoe, ship                       |
+| **d**          | [d]              | /d/                         | dog, day                         |
+| **f**          | [f]              | /f/                         | fun, face                        |
+| **g** (antes de a, o, u) | [g]   | /g/                         | go, game                         |
+| **g** (antes de e, i) | [ʒ] (pt-BR) | /ʒ/         | s in pleasure, measure                |
+| **h**          | [∅] silent in PT, it only change the sound of some consonants| /h/                         |                        |
+| **j**          | [ʒ]              | /ʒ/                         | treasure, genre                  |
+| **k**          | [k]              | /k/                         | key, kite                        |
+| **l**          | [l]              | /l/                         | love, late                       |
+| **lh**         | [ʎ]              | /lj/ (approximation)          | million (british), **liaison** |
+| **m**          | [m]              | /m/                         | man, more                        |
+| **n**          | [n]              | /n/                         | name, no                         |
+| **nh**         | [ɲ]              | /nj/ (approximation)          | onion, canyon                    |
+| **p**          | [p]              | /p/                         | pen, park                        |
+| **q**          | [k]              | /k/                         | queen, quick                     |
+| **r** (begin of the word or rr) | [ʁ] (pt-BR), [ʀ] ou [χ] (pt-PT) | there isn't a equivalent but its something like H in | house, hot     |
+| **r** (between vowel) | [ɾ]         | /ɾ/ (flap-like)             | *ladder* (american,short)     |
+| **s**          | [s], [z], [ʃ], [ʒ] | /s/, /z/, /ʃ/, /ʒ/        | see, easy, sugar, vision         |
+| **t**          | [t]              | /t/                         | top, time                        |
+| **t** (before i em PT-BR) | [tʃ] | /tʃ/                       | check, choose                    |
+| **v**          | [v]              | /v/                         | voice, very                      |
+| **w**          | [w] | /w/                        | water, world                     |
+| **x**          | [ʃ], [s], [z], [ks] | /ʃ/, /s/, /z/, /ks/       | show, six, example, xenon        |
+| **z**          | [z]              | /z/                         | zoo, lazy                        |
+
+** There are some "not totally true" but it's to be continued . . .
+
+
+> As you can see, There are some tricky sounds that some people strugle to pronunce properly, because there won't be equivalents in english for some portuguese consonats junctions, like **nh** [ɲ] and **lh** [ʎ], but there are some aproximation
 
 
 
@@ -53,7 +86,7 @@ There are some tricky sounds that some people strugle to pronunce properly
 
 
 There are 6 pronouns in portuguese
- But in living language, [we barely use the second person]("_" "That's not totaly true"). So in place of "tu" you can use "você" the same way you use the third person Ele/ela.
+ But in living language, [we barely use the second person]("#noteAbout2person" "That's not totally true"). So in place of "tu" you can use "você" the same way you use the third person Ele/ela.
 
 > Você is a treatment pronoun actually, but we use that as a 
 
@@ -85,6 +118,7 @@ There are 6 pronouns in portuguese
    - Eles/elas **são** altos/altas
    - They are tall
 
+> **Note** <a id="noteAbout2person"></a>
 
 ### Verbs<a id="Verbs"></a>
 You will see verbs in the folowing main forms
