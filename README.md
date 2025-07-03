@@ -50,8 +50,8 @@ Regarding the consonants, it goes smothly, they are mostly like in english, exce
 | **ch**         | [ʃ]              | /ʃ/                         | shoe, ship                       |
 | **d**          | [d]              | /d/                         | dog, day                         |
 | **f**          | [f]              | /f/                         | fun, face                        |
-| **g** (antes de a, o, u) | [g]   | /g/                         | go, game                         |
-| **g** (antes de e, i) | [ʒ] (pt-BR) | /ʒ/         | s in pleasure, measure                |
+| **g** (before a, o, u) | [g]   | /g/                         | go, game                         |
+| **g** (before e, i) | [ʒ] (pt-BR) | /ʒ/         | s in pleasure, measure                |
 | **h**          | [∅] silent in PT, it only change the sound of some consonants| /h/                         |                        |
 | **j**          | [ʒ]              | /ʒ/                         | treasure, genre                  |
 | **k**          | [k]              | /k/                         | key, kite                        |
