@@ -86,7 +86,7 @@ Regarding the consonants, it goes smothly, they are mostly like in english, exce
 
 
 There are 6 pronouns in portuguese
- But in living language, [we barely use the second person]("#noteAbout2person" "That's not totally true"). So in place of "tu" you can use "você" the same way you use the third person Ele/ela.
+ But in living language, [we barely use the second person](#noteAbout2person "That's not totally true"). So in place of "tu" you can use "você" the same way you use the third person Ele/ela.
 
 > Você is a treatment pronoun actually, but we use that as a 
 
@@ -118,7 +118,9 @@ There are 6 pronouns in portuguese
    - Eles/elas **são** altos/altas
    - They are tall
 
-> **Note** <a id="noteAbout2person"></a>
+
+<a id="noteAbout2person"></a> 
+> **That's not totally true** about the second person... be continued . . .
 
 ### Verbs<a id="Verbs"></a>
 You will see verbs in the folowing main forms
